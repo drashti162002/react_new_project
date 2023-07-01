@@ -1,0 +1,47 @@
+.full_profile{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.header{
+    display: flex;
+}
+.icon{
+   margin-left: 1000px;
+   /* font-size: 250px; */
+}
+.title_name{
+    margin-left: 20px;
+    margin-top: -16px;
+}
+.profile{
+   /* margin-left: 660px; */
+   display: flex;
+   margin-top: 50px;
+   justify-content: center !important;
+}
+.noti{
+    display: flex;
+    margin-left: 15px;
+}
+.notification{
+    margin-left: 25px;
+}
+.switch{
+    margin-left:350px ;
+}
+.button{
+    position: absolute;
+    transform: translate(205%, 430%);
+}
+.your_name{
+    /* margin-left: 150px; */
+    text-align: center !important;
+}
+.your_photo{
+    margin-top: 20px;
+    margin-left: 30px;
+    /* display: flex; */
+}
+/* .full_page{
+    width: 600px;
+} */

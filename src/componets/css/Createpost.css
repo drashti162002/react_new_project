@@ -1,0 +1,11 @@
+.full_post{
+    min-width: 600px;
+}
+input{
+    display: none;
+}
+.upload_photo{
+    border: 1px solid rgb(48, 163, 216);
+    padding: 15px 40px;
+    width: 510px;
+}
